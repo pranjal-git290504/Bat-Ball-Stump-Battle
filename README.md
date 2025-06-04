@@ -15,7 +15,7 @@ Play against the computer, track your score with localStorage, and enjoy animate
 4. Click "Reset" to clear your score.
 
 ## Demo
-[Add your GitHub Pages link here after deployment]
+[My GitHub Pages link here after deployment]
 
 ## Technologies Used
 - HTML
