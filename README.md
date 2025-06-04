@@ -3,12 +3,12 @@ A fun and interactive Bat Ball Stump game built with HTML, CSS, and JavaScript.
 Play against the computer, track your score with localStorage, and enjoy animated feedback and a modern UI.
 
 ## Screenshots
-##Game Start:
+#Game Start:
 ![Game Start](screenshots/start.png)
-##Gameplay: 
+#Gameplay: 
 ![Gameplay](screenshots/gameplay.png)
-##Result Animation:
-![Result Animation](screenshots/result-pop.gif.gif)
+#Result Animation:
+![Result Animation](screenshots/result-pop.gif)
 ## Features
 - Play Bat, Ball, or Stump against the computer
 - Animated buttons and result display
