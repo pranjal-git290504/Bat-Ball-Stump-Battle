@@ -8,7 +8,8 @@ Play against the computer, track your score with localStorage, and enjoy animate
 #Gameplay: 
 ![Gameplay](screenshots/gameplay.png)
 #Result Animation:
-![Result Animation](screenshots/result-pop.gif)
+![Result Animation](screenshots/result-pop.gif)![result-pop](https://github.com/user-attachments/assets/3cc4073c-800c-4997-bc38-33ea8d15a975)
+
 ## Features
 - Play Bat, Ball, or Stump against the computer
 - Animated buttons and result display
