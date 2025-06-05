@@ -21,7 +21,7 @@ Play against the computer, track your score with localStorage, and enjoy animate
 4. Click "Reset" to clear your score.
 
 ## Demo
-[My GitHub Pages link here after deployment]
+https://pranjal-git290504.github.io/Bat-Ball-Stump-Battle/
 
 ## Technologies Used
 - HTML
