@@ -1,4 +1,4 @@
-# Bat-Ball-Stump-Battle
+# Cricket Battel Arena
 A fun and interactive Bat Ball Stump game built with HTML, CSS, and JavaScript.  
 Play against the computer, track your score with localStorage, and enjoy animated feedback and a modern UI.
 
